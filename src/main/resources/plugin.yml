@@ -1,0 +1,10 @@
+name: Skywars
+version: '${project.version}'
+main: me.night0721.skywars.Skywars
+api-version: 1.18
+authors: [ Night0721 ]
+description: Skywars plugin for Spigot
+website: cath.js.org
+commands:
+  kit:
+    description: "Select Kit"
